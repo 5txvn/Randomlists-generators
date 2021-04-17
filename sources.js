@@ -1,0 +1,1 @@
+//Source (emojis.json) - https://www.randomlists.com/emojis
